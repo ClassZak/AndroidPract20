@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidPract20</string>
+    <string name="angle_descriptiom">Угол поворота: </string>
+    <string name="axis_angle_descriptiom">Угол оси </string>
+    <string name="start_giro_thread">Начать измерение угла гироскопа</string>
+    <string name="stop_giro_thread">Остановить измерение угла гироскопа</string>
 </resources>
