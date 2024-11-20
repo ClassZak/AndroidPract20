@@ -20,6 +20,8 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             android:text="@string/angle_descriptiom"
+            android:gravity="center"
+            android:layout_gravity="center"
             android:textSize="30dp"
             android:id="@+id/giroTextView"/>
         <Button
